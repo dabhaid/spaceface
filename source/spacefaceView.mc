@@ -39,7 +39,10 @@ class spacefaceView extends Ui.WatchFace {
 //        System.println(dc.getTextDimensions("0", space_mono_180));
 
         var clockTime = Sys.getClockTime();
-        var timeString = Lang.format("$1$$2$", [clockTime.hour.format("%02d"), clockTime.min.format("%02d")]);
+        var timeString = Lang.format("$1$$2$$3$", [clockTime.hour.format("%02d"), 
+        										clockTime.min.format("%02d"), 
+        										clockTime.sec.format("%02d")]);
+        System.println(timeString);
         var today = new Time.Moment(Time.today().value());
         var dayString = Gregorian.info(today, Time.FORMAT_MEDIUM).day_of_week;
  		var dayArray = dayString.toUpper().toCharArray();
@@ -54,11 +57,15 @@ class spacefaceView extends Ui.WatchFace {
         var m3 = View.findDrawableById("min2");
         m3.setText(timeString.substring(3,4));
         var day = View.findDrawableById("day");
-        day.setText(dayString);
+        day.setText(dayString); // was at 57
         dc.setPenWidth(1);
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
         dc.drawLine(width/2, 0, width/2, height);
         dc.drawLine(0, height/2, height,height/2);
+        var sec1 = View.findDrawableById("sec1");
+        sec1.setText(timeString.substring(4,5));
+        var sec2 = View.findDrawableById("sec2");
+        sec2.setText(timeString.substring(5,6));
         
 
         // Call the parent onUpdate function to redraw the layout
