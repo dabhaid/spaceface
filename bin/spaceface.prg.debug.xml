@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceApp.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceApp.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceApp.mc" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceApp.mc" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceApp.mc" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceApp.mc" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="10" pc="268435531" symbol="initialize"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="11" pc="268435535" symbol="initialize"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="15" pc="268435554" symbol="onLayout"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="16" pc="268435558" symbol="onLayout"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="22" pc="268435596" symbol="onShow"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="26" pc="268435601" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="27" pc="268435605" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="28" pc="268435634" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="29" pc="268435663" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="30" pc="268435699" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="31" pc="268435711" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="32" pc="268435724" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="41" pc="268435737" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="42" pc="268435754" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="43" pc="268435842" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="44" pc="268435894" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="45" pc="268435931" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="46" pc="268435953" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="47" pc="268436029" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="48" pc="268436049" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="49" pc="268436073" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="50" pc="268436106" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="51" pc="268436130" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="52" pc="268436163" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="53" pc="268436187" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="54" pc="268436220" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="55" pc="268436244" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="56" pc="268436277" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="57" pc="268436301" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="58" pc="268436315" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="59" pc="268436332" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="60" pc="268436368" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="61" pc="268436403" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="65" pc="268436438" symbol="onUpdate"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="71" pc="268436459" symbol="onHide"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="75" pc="268436464" symbol="onExitSleep"/>
+<entry filename="/Users/dave/eclipse-workspace/spaceface/./source/spacefaceView.mc" lineNum="79" pc="268436469" symbol="onEnterSleep"/>
+<entry filename="Rez" lineNum="22" pc="268436474" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268436486" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268436523" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268436560" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268436597" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268436720" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268436843" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268436966" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268437089" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268437212" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268437335" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="18" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="17" symbol="space_mono_30"/>
+<entry field="true" id="14" symbol="space_mono_180"/>
+<entry field="true" id="15" symbol="space_mono_180_bold"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="9" object="true" symbol="spacefaceApp"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="10" object="true" symbol="spacefaceView"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="16" symbol="space_mono_rot_40"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435596" name="dc" stackId="1" startPc="268435554"/>
+<entry endPc="268436458" name="timeString" stackId="5" startPc="268435605"/>
+<entry endPc="268436458" name="dayArray" stackId="8" startPc="268435605"/>
+<entry endPc="268436458" name="dayString" stackId="7" startPc="268435605"/>
+<entry endPc="268436458" name="width" stackId="2" startPc="268435605"/>
+<entry endPc="268436458" name="clockTime" stackId="4" startPc="268435605"/>
+<entry endPc="268436458" name="h2" stackId="10" startPc="268435605"/>
+<entry endPc="268436458" name="h1" stackId="9" startPc="268435605"/>
+<entry endPc="268436458" name="today" stackId="6" startPc="268435605"/>
+<entry endPc="268436458" name="day" stackId="13" startPc="268435605"/>
+<entry endPc="268436458" name="m3" stackId="12" startPc="268435605"/>
+<entry endPc="268436458" name="height" stackId="3" startPc="268435605"/>
+<entry endPc="268436458" name="m1" stackId="11" startPc="268435605"/>
+<entry endPc="268436459" name="dc" stackId="1" startPc="268435601"/>
+<entry endPc="268437402" name="rez_cmp_local_bitmap_secs" stackId="10" startPc="268436486"/>
+<entry endPc="268437402" name="rez_cmp_local_bitmap_day" stackId="9" startPc="268436486"/>
+<entry endPc="268437402" name="rez_cmp_local_bitmap_min2" stackId="8" startPc="268436486"/>
+<entry endPc="268437402" name="rez_cmp_local_bitmap_min1" stackId="7" startPc="268436486"/>
+<entry endPc="268437402" name="local_Rez_Fonts_space_mono_180_bold" stackId="2" startPc="268436486"/>
+<entry endPc="268437402" name="rez_cmp_local_bitmap_hour2" stackId="6" startPc="268436486"/>
+<entry endPc="268437402" name="rez_cmp_local_bitmap_hour1" stackId="5" startPc="268436486"/>
+<entry endPc="268437402" name="local_Rez_Fonts_space_mono_30" stackId="3" startPc="268436486"/>
+<entry endPc="268437402" name="local_Rez_Fonts_space_mono_rot_40" stackId="4" startPc="268436486"/>
+<entry endPc="268437403" name="dc" stackId="1" startPc="268436474"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="spacefaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="spacefaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="spacefaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="spacefaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="spacefaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="spacefaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="spacefaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="spacefaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="spacefaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="spacefaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="spacefaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="spacefaceApp" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="spacefaceView" type="class"/>
+<dataEntry offset="332" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="411" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="450" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="481" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="544" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="575" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="614" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+</debugInfo>

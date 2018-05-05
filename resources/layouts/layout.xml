@@ -1,0 +1,8 @@
+<layout id="WatchFace">
+    <label id="hour1" x="86" y="-20" font="@Fonts.space_mono_180_bold" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+     <label id="hour2" x="154" y="-20" font="@Fonts.space_mono_180_bold" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="min1" x="86" y="72" font="@Fonts.space_mono_180_bold" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="min2" x="154" y="72" font="@Fonts.space_mono_180_bold" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="day" x="200" y="57" font="@Fonts.space_mono_rot_40" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="secs" x="200" y="200" font="@Fonts.space_mono_30" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+</layout>

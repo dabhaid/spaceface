@@ -1,0 +1,7 @@
+<fonts>
+	<font id="space_mono_180" filename="space_mono_180.fnt" filter="0123456789MONTUEWDHFRISA:"/>
+	<font id="space_mono_180_bold" filename="space_mono_180_bold.fnt" filter="0123456789MONTUEWDHFRISA:"/>
+	<font id="space_mono_rot_40" filename="space_mono_rot_40.fnt" filter="0123456789MONTUEWDHFRISA:"/>
+	<font id="space_mono_30" filename="space_mono_30.fnt" filter="0123456789MONTUEWDHFRISA:"/>
+	
+</fonts>
