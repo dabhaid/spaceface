@@ -24,8 +24,6 @@ class spacefaceView extends Ui.WatchFace {
 
     // Update the view
     function onUpdate(dc) {
-    	System.println(dc.getWidth());
-    	System.println(dc.getHeight());
     	dc.setColor(Gfx.COLOR_BLACK,Gfx.COLOR_BLACK);
 		dc.clear();
 		var width=dc.getWidth();
@@ -42,12 +40,13 @@ class spacefaceView extends Ui.WatchFace {
         var timeString = Lang.format("$1$$2$$3$", [clockTime.hour.format("%02d"), 
         										clockTime.min.format("%02d"), 
         										clockTime.sec.format("%02d")]);
-        System.println(timeString);
         var today = new Time.Moment(Time.today().value());
         var dayString = Gregorian.info(today, Time.FORMAT_MEDIUM).day_of_week;
+        var date = Gregorian.info(today, Time.FORMAT_MEDIUM).day;
+        var dateString = Lang.format("$1$", [date.format("%02d")]);
+        System.println(dateString);
  		var dayArray = dayString.toUpper().toCharArray();
         dayString = Lang.format("$1$\n$2$\n$3$", [dayArray[0], dayArray[1], dayArray[2]]);
-        System.println(dayString);
         var h1 = View.findDrawableById("hour1");
         h1.setText(timeString.substring(0,1));
         var h2 = View.findDrawableById("hour2");
@@ -63,9 +62,9 @@ class spacefaceView extends Ui.WatchFace {
         dc.drawLine(width/2, 0, width/2, height);
         dc.drawLine(0, height/2, height,height/2);
         var sec1 = View.findDrawableById("sec1");
-        sec1.setText(timeString.substring(4,5));
+        sec1.setText(dateString.substring(0,1));
         var sec2 = View.findDrawableById("sec2");
-        sec2.setText(timeString.substring(5,6));
+        sec2.setText(dateString.substring(1,2));
         
 
         // Call the parent onUpdate function to redraw the layout
